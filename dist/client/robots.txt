@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bavarian-garage.ru/sitemap.xml

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bavarian-garage.ru/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>https://bavarian-garage.ru/diagnostic.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bavarian-garage.ru/coding.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bavarian-garage.ru/carplay.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bavarian-garage.ru/chiptuning.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bavarian-garage.ru/retrofit.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bavarian-garage.ru/remote.html</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url>
+    <loc>https://bavarian-garage.ru/blog.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bavarian-garage.ru/privacy.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
